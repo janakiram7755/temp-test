@@ -34,3 +34,4 @@ python -m pytest tests/
 ## License
 
 MIT — see [LICENSE](LICENSE).
+slack-git test 1
